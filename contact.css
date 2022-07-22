@@ -1,0 +1,32 @@
+body{
+    
+    padding-top: 200px;
+    padding-bottom: 200px;    
+    background-image: url(img/aesthetic-background-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 99px;
+    height: 99px;
+    border-radius: 50%;
+    position: center;
+    text-align: center;
+    
+}
+h1 {
+    position: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+div{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: fit-content;
+}
+
+nav{
+    object-position:top;
+    position: absolute;
+}
